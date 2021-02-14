@@ -82,7 +82,7 @@ person = {
 /* End Explicit or Union type */
 /**################################################################################################################### */
 /* Dynamic type */
-var password; // if any chance of changing that variable type in future then we use any. it accept all type.
-var studentNames = [];
-var player;
+let password; // if any chance of changing that variable type in future then we use any. it accept all type.
+let studentNames = [];
+let player;
 /* End Dynamic type */ 

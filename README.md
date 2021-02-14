@@ -32,3 +32,9 @@ Configure tsconfig.json:
 
 Auto Run:
 tsc -w
+
+Module configure:
+target es6
+module es2015 set in tsconfig.json
+set type="module" inside script tag in index.html 
+
